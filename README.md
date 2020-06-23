@@ -6,4 +6,4 @@ Through the course offered by Rocketseat during NLW we developed a recycling pla
 
 ### Result
 
-![](/assets/wallpapers/resultadofinal.PNG)
+![](public/assets/wallpapers/resultadofinal.PNG)
